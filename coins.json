@@ -561,7 +561,7 @@
 	"bech32_prefix": null,
 	"cashaddr_prefix": null,
 	"bip44": 183,
-	"segwit": false,
+	"segwit": true,
 	"decred": false,
 	"forkid": 42,
 	"force_bip143": false,
